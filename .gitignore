@@ -1,0 +1,10 @@
+
+### Node
+node_modules/
+.npm
+.config
+.DS_Store
+.lenra/
+dist/
+tmp/
+*.gen.ts
